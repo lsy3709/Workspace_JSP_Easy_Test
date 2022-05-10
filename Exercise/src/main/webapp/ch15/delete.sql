@@ -1,0 +1,3 @@
+DELETE FROM STUDENT WHERE depart='¿µ¾î°ú';
+
+SELECT * fROM STUDENT;
